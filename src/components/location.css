@@ -1,0 +1,8 @@
+.maps {
+    margin-top: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 7%;
+  }

@@ -1,0 +1,35 @@
+.hero-section{
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+
+.hero-section p {
+  font-size: 1rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+
+.maps {
+  margin-top: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Images img{
+   width: 100%;
+    border-radius: 20%;
+}
+.page {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
