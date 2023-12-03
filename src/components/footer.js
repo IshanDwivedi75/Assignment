@@ -43,7 +43,8 @@ const Footer = () => {
             <a href='https://twitter.com/gcisikar'>
             <p><img src={tw} alt=''/></p>
             </a>
-            <a href="https://www.linkedin.com/school/gcisikar/"><p><img src={lin} alt=''/></p></a>
+            <a href="https://www.linkedin.com/school/gcisikar/"
+            ><p><img src={lin} alt=''/></p></a>
              </div> 
     </div>
     </div>
